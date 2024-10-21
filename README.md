@@ -15,6 +15,7 @@
 #### 如果你要运行项目，请下载整个模块，其中after_end为后端，front_end为前端，请确保你的环境中有python和node.js，没有请先自行安装。
 
 
+
 ## 关于后端启动，先进入after_end，接着输入：
 
 ```python
@@ -23,7 +24,7 @@ python main.py
 
 ```
 
-## 关于前端其中，先进入front_end，接着输入：
+## 关于前端启动，先进入front_end，接着输入：
 
 ```javascript
 
